@@ -12,24 +12,42 @@ Secondly: The focus is always vanilla.  Tweaks and balances here are to make the
 ### FactionsDef
 >Factions_HostileKurin.xml
 ```
-Adds a permanent new faction based on the original hostile one.  This one can never be friendly and exist for recruitment and combat purposes.  2 factions also increase the odds of being attacked by kurins and in turn recruiting them/capturing.
+Adds a permanent new faction based on the original hostile one.
+This one can never be friendly and exist for recruitment and combat purposes.
+2 factions also increase the odds of being attacked by kurins and in turn recruiting them/capturing.
 ```
 >Factions_KurinTribalAddon.xml
 ```
-Core files for the tribal faction. Its based around the vanillia tribal though due to not having any true tribal assests in the SFW version of kurin they start out with random clothings.  Sorry if thats immersion breaking.
+Core files for the tribal faction.
+Its based around the vanillia tribal though due to not having any true tribal assests in the SFW version of kurin they start out with random clothings.
+Sorry if thats immersion breaking.
 ```
 ### PawnKinds
 >PawnKinds_BattleFox
 ```
+This is the file that contains the kind of gear and types of enemies that can spawn.  
+If you have ever been seiged by 20 sniper kurins you understand just how poorly balanced they are....
+This will lower their overall threat and reducing the rate they spawn with insane weapons early game.
 ```
+>RaceAddonPawnKindDef_Tribal
 ```
+More tribal core files, if you arent interested in the tribal stuff then by all means skip over this.  It does however add Kurin Tribals to the list of quest rewards.
 ```
 ### Race
+>Race.xml
 ```
+Will overwrite the default kurins values.  
+If you do skip this file but want tribals, add <AlienRace.ThingDef_AlienRace ParentName="BasePawn"  Name="Kurin_Race_Base">
+to the 3rd line replacing the original in order to allow tribal to work as its dependat on the kurin colonist file.
 ```
+>RaceAddonTribe.xml
 ```
+More tribal nonsense. ParentName="Kurin_Race_Base" meaning this file won't work without adding it to race manually or by file
 ```
 ### Base Folder
-
+ResearchProjects.xml
 ```
+This will replace the research.  If you play naked brutality youll know just how frustrating it is to not have clothing for the first several hours.  This fixes it.
+It also merges T2 and T3 so you only need to research advance clothing and have all the basic clothing by default.  
+I may have messed what you unlock though as Im not including my edited custom psycast kurin and royal gear into the balance, nor have have I looked to see whats included in the current 1.2 kurin release.
 ```
