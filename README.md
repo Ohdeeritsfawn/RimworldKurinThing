@@ -1,4 +1,4 @@
-#
+#Green Code Button-> Download Zip
 Disclaimer: I cannot garantee compatability with your game, if it doesnt work or throws errors its likely conflicting with something
 In some cases I cannot garantee simple things like a nonhostile empire without overwriting any potential dependancies.  If its an issue I could always upload the files to correct certain issues.
 Lastly credit to where the original authors deserve Im just putting this up here to give players an option to expand/make their kurins vanilla friendly.
