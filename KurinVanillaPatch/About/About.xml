@@ -1,0 +1,9 @@
+﻿<ModMetaData>
+	<name>KurinVanilliaBalancePatch</name>
+	<author>Fawn</author>
+	<packageId>Fawn.KurinVanilliaBalancePatch</packageId>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<description>For a more vanillia experiance.</description>
+</ModMetaData>

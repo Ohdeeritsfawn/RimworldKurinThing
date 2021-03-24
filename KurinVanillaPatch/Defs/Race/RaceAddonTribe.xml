@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    <AlienRace.ThingDef_AlienRace ParentName="Kurin_Race_Base">
+        <defName>Kurin_Race_Tribe</defName>
+        <label>Kurin</label>
+        <description>Kurin Tribal Fox Race</description>
+    </AlienRace.ThingDef_AlienRace>
+</Defs>
