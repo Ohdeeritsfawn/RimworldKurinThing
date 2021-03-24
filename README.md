@@ -1,14 +1,10 @@
 # Current Files
 
-###FactionDef
-Factions_HostileKurin.xml
 ```
-Test
+Folders
+-
+FactionDef
+PawnKinds
+Race
+-
 ```
-Factions_KurinTribalAddon.xml
-
-###PawnKindsDef
-
-###Race
-
-###TopFolder
