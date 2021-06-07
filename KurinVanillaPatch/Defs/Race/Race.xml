@@ -40,39 +40,40 @@
                     <bodyAddons>
                         <!--꼬리A-->
                         <li>
-                            <path>Kurin/Tail/A/Texture</path>
-                            <bodyPart>tail</bodyPart>
-                            <inFrontOfBody>false</inFrontOfBody>
-                            <colorChannel>hair</colorChannel>
-                            <drawSize>0.9</drawSize>
-                            <offsets>
-                                <south>
-                                    <bodyTypes>
-                                        <Female>(-0.3729904,0.2315113)</Female>
-                                    </bodyTypes>
-                                    <crownTypes>
-                                        <Normal_Average>(0,0)</Normal_Average>
-                                    </crownTypes>
-                                </south>
-                                <north>
-                                    <bodyTypes>
-                                        <Female>(0,0.6173633)</Female>
-                                    </bodyTypes>
-                                    <crownTypes>
-                                        <Normal_Average>(0,0)</Normal_Average>
-                                    </crownTypes>
-                                </north>
-                                <east>
-                                    <bodyTypes>
-                                        <Female>(-0.4136978,0.347267)</Female>
-                                    </bodyTypes>
-                                    <crownTypes>
-                                        <Normal_Average>(0,0)</Normal_Average>
-                                    </crownTypes>
-                                </east>
-                            </offsets>
-                            <drawnInBed>false</drawnInBed>
-                        </li>
+                <path>Kurin/Tail/Single tails/Texture1</path>
+                <bodyPart>tailtop</bodyPart>				
+                <inFrontOfBody>false</inFrontOfBody>
+				<colorChannel>hair</colorChannel>
+				<drawSize>0.9</drawSize>
+                <layerOffset>-0.19</layerOffset>
+                <offsets>
+                    <south>
+                        <bodyTypes>
+                            <Female>(-0.3729904,0.2315113)</Female>
+                        </bodyTypes>
+                        <crownTypes>
+                            <Normal_Average>(0,0)</Normal_Average>
+                        </crownTypes>
+                    </south>
+                    <north>
+                        <bodyTypes>
+                            <Female>(0,0.5401928)</Female>
+                        </bodyTypes>
+                        <crownTypes>
+                            <Normal_Average>(0,0)</Normal_Average>
+                        </crownTypes>
+                    </north>
+                    <east>
+                        <bodyTypes>
+                            <Female>(-0.4972991,0.2958201)</Female>
+                        </bodyTypes>
+                        <crownTypes>
+                            <Normal_Average>(0,0)</Normal_Average>
+                        </crownTypes>
+                    </east>
+                </offsets>
+				<drawnInBed>false</drawnInBed>
+                </li>
                         <!--왼쪽귀A-->
                         <li>
                             <path>Kurin/Face/Faces/Texture</path>
