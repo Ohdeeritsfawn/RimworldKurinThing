@@ -645,80 +645,54 @@
                 <!--=============================================================================================================================-->
                 <raceRestriction>
                     <apparelList>
-                        <li>Kurin_OnSkin_Shirt</li>
-                        <!-- <li>Kurin_OnSkin_Shirt_Short</li> -->
-                        <li>Kurin_OnSkin_T_Shirt</li>
-                        <li>Kurin_OnSkin_Hot_Pants</li>
-                        <li>Kurin_OnSkin_Hot_Top</li>
-                        <li>Kurin_OnSkin_PajamasA</li>
-                        <li>Kurin_OnSkin_PajamasB</li>
-                        <li>Kurin_OnSkin_PajamasC</li>
-                        <li>Kurin_OnSkin_One_Piece_Dress</li>
-                        <li>Kurin_OnSkin_Open_Back_Knit</li>
-                        <li>Kurin_OnSkin_Open_Shoulder_Knit</li>
-                        <li>Kurin_OnSkin_Hoodie</li>
-                        <li>Kurin_OnSkin_Casual_Wear</li>
-                        <li>Kurin_OnSkin_Armored_Gothic_Dress</li>
-                        <li>Kurin_OnSkin_Gothic_Dress</li>
-                        <li>Kurin_OnSkin_Bikini_Armor</li>
-                        <li>Kurin_OnSkin_Military_Uniform</li>
-                        <li>Kurin_OnSkin_Nun_Dress</li>
-                        <li>Kurin_OnSkin_Work_Jumpsuit</li>
-                        <li>Kurin_OnSkin_Traditional_Simple_Dress</li>
-                        <li>Kurin_OnSkin_Traditional_Fancy_Dress</li>
-                        <li>Kurin_OnSkin_Traditional_Luxury_Dress</li>
-                        <li>Kurin_OnSkin_Cute_Dress</li>
-                        <li>Kurin_OnSkin_Seductive_White_Dress</li>
-                        <li>Kurin_OnSkin_Seductive_Black_Dress</li>
-                        <li>Kurin_Stockings</li>
-                        <li>Kurin_Stockings_White</li>
-                        <li>Kurin_Stockings_Brown</li>
-                        <li>Kurin_Stockings_Striped</li>
-                        <li>Kurin_Stockings_Striped_White</li>
-                        <li>Kurin_Stockings_Garterbelt</li>
-                        <li>Kurin_Stockings_Pantyhose</li>
-                        <li>Kurin_Underwear_WhiteTop</li>
-                        <li>Kurin_Underwear_WhiteBottom</li>
-                        <!-- <li>Kurin_Underwear</li> -->
-                        <li>Kurin_Underwear_Top</li>
-                        <li>Kurin_Underwear_Bottom</li>
-                        <!-- <li>Kurin_Underwear_White</li> -->
-                        <li>Kurin_Underwear_WhiteTop</li>
-                        <li>Kurin_Underwear_WhiteBottom</li>
-                        <!-- <li>Kurin_Underwear_Black</li> -->
-                        <li>Kurin_Underwear_BlackTop</li>
-                        <li>Kurin_Underwear_BlackBottom</li>
-                        <!-- <li>Kurin_Underwear_Red</li> -->
-                        <li>Kurin_Underwear_RedTop</li>
-                        <li>Kurin_Underwear_RedBottom</li>
-                        <!-- <li>Kurin_Underwear_Striped</li> -->
-                        <li>Kurin_Underwear_StripedTop</li>
-                        <li>Kurin_Underwear_StripedBottom</li>
-                        <!-- <li>Kurin_Underwear_Striped2</li> -->
-                        <li>Kurin_Underwear_Striped2Top</li>
-                        <li>Kurin_Underwear_Striped2Bottom</li>
-                        <!-- <li>Kurin_Underwear_Slim</li> -->
-                        <li>Kurin_Underwear_SlimTop</li>
-                        <li>Kurin_Underwear_SlimBottom</li>
-                        <!-- <li>Kurin_Underwear_Prude</li> -->
-                        <li>Kurin_Underwear_PrudeTop</li>
-                        <li>Kurin_Underwear_PrudeBottom</li>
-                        <li>Kurin_Middle_Body_Armor</li>
-                        <li>Kurin_Overhead_Winter_Hat</li>
-                        <li>Kurin_Overhead_Summer_Hat</li>
-                        <li>Kurin_Overhead_Casual_Hair_Pin</li>
-                        <li>Kurin_Overhead_Goggles</li>
-                        <li>Kurin_Overhead_Gothic_Hair_Pin</li>
-                        <li>Kurin_Overhead_Bikini_Armor_Headgear</li>
-                        <li>Kurin_Overhead_Military_Helmet</li>
-                        <li>Kurin_Overhead_Traditional_Hair_Pin</li>
-                        <li>Kurin_Overhead_Cute_Hair_Pin</li>
-                        <li>Kurin_Shell_Cardigan</li>
-                        <li>Kurin_Shell_Duster</li>
-                        <li>Kurin_Shell_Winter_Padding</li>
-                        <li>Kurin_OnSkin_Traditional_Coat</li>
-                        <!-- <li>Kurin_Belt_Scarf</li> -->
-                    </apparelList>
+				<li>Kurin_OnSkin_Shirt</li>
+				<li>Kurin_OnSkin_T_Shirt</li>
+				<li>Kurin_OnSkin_Hot_Pants</li>
+				<li>Kurin_OnSkin_Hot_Top</li>
+				<li>Kurin_OnSkin_PajamasA</li>
+				<li>Kurin_OnSkin_PajamasB</li>
+				<li>Kurin_OnSkin_PajamasC</li>
+				<li>Kurin_OnSkin_One_Piece_Dress</li>
+				<li>Kurin_OnSkin_Open_Back_Knit</li>
+				<li>Kurin_OnSkin_Open_Shoulder_Knit</li>
+				<li>Kurin_OnSkin_Hoodie</li>
+				<li>Kurin_OnSkin_Casual_Wear</li>
+				<li>Kurin_OnSkin_Armored_Gothic_Dress</li>
+				<li>Kurin_OnSkin_Gothic_Dress</li>
+				<li>Kurin_OnSkin_Bikini_Armor</li>
+				<li>Kurin_OnSkin_Military_Uniform</li>
+				<li>Kurin_OnSkin_Nun_Dress</li>
+				<li>Kurin_OnSkin_Work_Jumpsuit</li>
+				<li>Kurin_OnSkin_Traditional_Simple_Dress</li>
+				<li>Kurin_OnSkin_Traditional_Fancy_Dress</li>
+				<li>Kurin_OnSkin_Traditional_Luxury_Dress</li>
+				<li>Kurin_OnSkin_Cute_Dress</li>
+				<li>Kurin_OnSkin_Seductive_White_Dress</li>
+				<li>Kurin_OnSkin_Seductive_Black_Dress</li>
+				<li>Kurin_Underwear</li> 
+				<li>Kurin_Underwear_Stuffed</li> 
+				<li>Kurin_Underwear_Black</li> 
+				<li>Kurin_Underwear_Red</li> 
+				<li>Kurin_Underwear_Striped</li> 
+				<li>Kurin_Underwear_Striped_Stuffed</li> 
+				<li>Kurin_Underwear_Slim</li>
+				<li>Kurin_Underwear_Prude</li>
+				<li>Kurin_Middle_Body_Armor</li>
+				<li>Kurin_Overhead_Winter_Hat</li>
+				<li>Kurin_Overhead_Summer_Hat</li>
+				<li>Kurin_Overhead_Casual_Hair_Pin</li>
+				<li>Kurin_Overhead_Goggles</li>
+				<li>Kurin_Overhead_Gothic_Hair_Pin</li>
+				<li>Kurin_Overhead_Bikini_Armor_Headgear</li>
+				<li>Kurin_Overhead_Military_Helmet</li>
+				<li>Kurin_Overhead_Traditional_Hair_Pin</li>
+				<li>Kurin_Overhead_Cute_Hair_Pin</li>
+				<li>Kurin_Shell_Cardigan</li>
+				<li>Kurin_Shell_Duster</li>
+				<li>Kurin_Shell_Winter_Padding</li>
+				<li>Kurin_OnSkin_Traditional_Coat</li>
+				<!-- <li>Kurin_Belt_Scarf</li> -->
+            </apparelList>
                     <whiteApparelList>
                         <li>Apparel_ShieldBelt</li>
                         <li>Apparel_SmokepopBelt</li>
